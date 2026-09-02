@@ -14,8 +14,8 @@
   <a href="https://portfolio.autumn-frost-c2ee.workers.dev/">
     <img src="https://img.shields.io/badge/Portfolio-7C7CFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:saikishor11419821@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/saikishor-edadasula">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-🎮 I'm a **Unity Game Developer and 3D Artist** passionate about creating interactive 3D experiences.
+🎮 I'm a **Unity Game Developer and 3D Artist** passionate about creating interactive game experiences.
 
 💻 I develop gameplay systems and mechanics using **Unity and C#**.
 
@@ -65,6 +65,7 @@
 <a href="https://github.com/saikishor11419821/Driveverse-City">
 <img src="https://img.shields.io/badge/GitHub-DriveVerse%20City-181717?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://kishor111.itch.io/drive">
 <img src="https://img.shields.io/badge/Play%20Game-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
 </a>
@@ -95,6 +96,7 @@
 <a href="https://github.com/saikishor11419821/FlyingBird">
 <img src="https://img.shields.io/badge/GitHub-FlyingBird-181717?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://kishor111.itch.io/flying-bird">
 <img src="https://img.shields.io/badge/Play%20Game-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
 </a>
@@ -257,34 +259,17 @@ I'm interested in opportunities related to:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikishor11419821&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor11419821&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saikishor11419821&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📫 Contact Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saikishor-edadasula">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+📧 **Email:** [saikishor11419821@gmail.com](mailto:saikishor11419821@gmail.com)
 
-<a href="mailto:saikishor11419821@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📱 **Mobile:** 7981192088
 
-<a href="https://portfolio.autumn-frost-c2ee.workers.dev/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-7C7CFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+💼 **LinkedIn:** https://www.linkedin.com/in/saikishor-edadasula
+
+🌐 **Portfolio:** https://portfolio.autumn-frost-c2ee.workers.dev/
 
 </p>
 
