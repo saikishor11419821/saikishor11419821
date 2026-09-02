@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  <a href="https://portfolio.autumn-frost-c2ee.workers.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-7C7CFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="mailto:saikishor11419821@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -57,35 +57,48 @@
 * 🏠 Vehicle garage system
 * 💵 Buy and sell cars
 
-
 **Built With**
 
 `Unity` `C#` `Blender`
 
-🔗 **Project Repository:** Coming Soon
+<p>
+<a href="https://github.com/saikishor11419821/Driveverse-City">
+<img src="https://img.shields.io/badge/GitHub-DriveVerse%20City-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://kishor111.itch.io/drive">
+<img src="https://img.shields.io/badge/Play%20Game-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
+</a>
+</p>
 
 ---
 
 ## 🐦 FlyingBird
 
-> A simple and fun 2D game where you control a bird, avoid obstacles and try to achieve the highest score.
+> A simple game where you control a flying bird, avoid enemies, and try to get a high score.
 
 ### 🎮 Features
 
 * 🐦 Simple bird controls
-* 🎯 Obstacle avoidance
+* 👾 Enemy avoidance
 * 📈 Score system
 * 🏆 High score system
 * ⚡ Increasing difficulty
 * 🔄 Endless gameplay
 * 🎨 Simple 2D visuals
-* 📱 Mobile-friendly controls
+* ⌨️ Space key jump control
 
 **Built With**
 
 `Unity` `C#`
 
-🔗 **Project Repository:** Coming Soon
+<p>
+<a href="https://github.com/saikishor11419821/FlyingBird">
+<img src="https://img.shields.io/badge/GitHub-FlyingBird-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://kishor111.itch.io/flying-bird">
+<img src="https://img.shields.io/badge/Play%20Game-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
+</a>
+</p>
 
 ---
 
@@ -110,6 +123,7 @@
 
 🔗 **Project Repository:** Coming Soon
 
+---
 
 # 🧊 Blender — 3D Art
 
@@ -246,30 +260,30 @@ I'm interested in opportunities related to:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saikishor11419821&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikishor11419821&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=saikishor11419821&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact Me
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/saikishor-edadasula">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:saikishor11419821@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://portfolio.autumn-frost-c2ee.workers.dev/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-7C7CFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -282,7 +296,7 @@ I'm interested in opportunities related to:
 
 **⭐ Check out my games, 3D projects and repositories ⭐**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C7CFF&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=saikishor11419821&label=Profile%20Views&color=7C7CFF&style=flat"/>
 
 </p>
 
