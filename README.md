@@ -50,12 +50,13 @@
 * 🚁 Fly helicopters
 * 🚕 Taxi mission system
 * 💰 Cash and economy system
-* 🗺️ GPS navigation
-* 🏠 Multiple locations to explore
-* 🌲 Forest environment
-* 🏜️ Desert environment
-* 🕳️ Cave environment
-* 🏰 Kingdom environment
+* 🗺️ MiniMap navigation
+* 👊 Hand-to-hand combat system
+* ⚔️ Sword attack and combat mechanics
+* ☀️🌙 Dynamic day and night cycle
+* 🏠 Vehicle garage system
+* 💵 Buy and sell cars
+
 
 **Built With**
 
@@ -101,7 +102,6 @@
 * ❤️ Player health system
 * ⏸️ Pause and restart system
 * 📱 Mobile-friendly UI
-* 🌙 Night environment
 * ⚡ Increasing gameplay challenge
 
 **Built With**
