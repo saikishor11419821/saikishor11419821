@@ -73,6 +73,78 @@
 
 ---
 
+## 🐱 StreetCat
+
+> A 2.5D endless running game where a street cat runs through a challenging environment, avoids obstacles, collects coins, and uses powerful abilities to survive longer.
+
+### 🎮 Features
+
+* 🐱 2.5D endless running gameplay
+* 🛣️ Curved endless path system
+* 🔄 Unique camera rotation mechanics
+* 🪙 Coin collection and reward system
+* 🧲 Magnet power-up
+* 🛡️ Shield power-up
+* ✖️2️⃣ Score multiplier power-up
+* 🏪 Custom cat skin shop
+* 🎨 Multiple cat skins with preview, purchase and equip system
+* 🧱 Endless obstacle generation
+* ❤️ Player health and death system
+* 📊 Score and high-score system
+* 🎯 Mission and reward system
+* ⏸️ Pause, restart and game-over systems
+* 📱 Mobile-friendly UI
+
+**Built With**
+
+`Unity` `C#` `Blender`
+
+<p>
+<a href="https://github.com/saikishor11419821/Street-Cat">
+<img src="https://img.shields.io/badge/GitHub-StreetCat-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kishor111.itch.io/street-cat">
+<img src="https://img.shields.io/badge/Play%20Game-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
+</a>
+</p>
+
+---
+
+## ☠️ DeathStep
+
+> A challenging 2D stickman platformer where every step can be deadly. Navigate through tricky levels filled with dangerous traps, obstacles and unexpected challenges. Test your timing, reflexes and movement skills, avoid death, reach the door and complete each level.
+
+### 🎮 Features
+
+* 🧍 2D stickman gameplay
+* 🧩 Multiple challenging levels
+* ☠️ Dangerous traps and obstacles
+* 🚪 Door-based level completion
+* 🔄 Restart and retry mechanics
+* 🎯 Timing and reflex-based gameplay
+* 🏃 Player movement and jumping
+* 🔓 Progressive level unlocking
+* 📱 PC and mobile controls
+* 🎮 Level selection system
+* ⚡ Challenging gameplay mechanics
+
+**Built With**
+
+`Unity` `C#`
+
+<p>
+<a href="https://github.com/saikishor11419821/DeathStep">
+<img src="https://img.shields.io/badge/GitHub-DeathStep-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kishor111.itch.io/deathstep">
+<img src="https://img.shields.io/badge/Play%20Game-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
+</a>
+</p>
+
+---
+
 ## 🐦 FlyingBird
 
 > A simple game where you control a flying bird, avoid enemies, and try to get a high score.
@@ -101,29 +173,6 @@
 <img src="https://img.shields.io/badge/Play%20Game-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io"/>
 </a>
 </p>
-
----
-
-## 🏃 Don't Stop Running
-
-> A fast-paced endless running game with unique camera mechanics and an ever-changing environment.
-
-### 🎮 Features
-
-* 🏃 Endless running gameplay
-* 🔄 Unique 180° camera rotation mechanic
-* 🏙️ Dynamically generated paths and buildings
-* 🪙 Coin collection system
-* ❤️ Player health system
-* ⏸️ Pause and restart system
-* 📱 Mobile-friendly UI
-* ⚡ Increasing gameplay challenge
-
-**Built With**
-
-`Unity` `C#` `Blender`
-
-🔗 **Project Repository:** Coming Soon
 
 ---
 
@@ -195,15 +244,6 @@ I create **game-ready 3D assets and environments** using Blender.
 
 ---
 
-# 🚀 Currently Working On
-
-```text
-🎮 Unity Game Development    ███████████████████░  90%
-🧊 Blender 3D Modeling       █████████████████░░░  85%
-💻 C# Gameplay Programming   █████████████████░░░  85%
-🌎 Environment Design        ████████████████░░░░  80%
-🎨 Game Art                  ███████████████░░░░░  75%
-```
 
 ### 🔨 Current Focus
 
